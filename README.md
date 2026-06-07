@@ -1,4 +1,4 @@
-# Massachusetts State Building Code Scraper
+# Massachusetts State Building Code Scraper for Mantis
 
 This scraper extracts all rules and regulations from the [10th Edition of the MA State Building Code](https://www.mass.gov/handbook/tenth-edition-of-the-ma-state-building-code-780) at paragraph resolution for Mantis space creation.
 
